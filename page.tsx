@@ -211,7 +211,7 @@ export default function Component() {
               <div className="text-center">
                 <p className="mb-2">一般販売はこちらから</p>
                 {/* 下記に購入リンク */}
-                <a href="" target="_blank" rel="noopener noreferrer">
+                <a href="https://eplus.jp/sf/detail/4182450001-P0030001" target="_blank" rel="noopener noreferrer">
                   <button className="bg-gradient-to-r from-blue-600 to-green-600 hover:from-blue-700 hover:to-green-700 text-white transition duration-300 px-8 py-3 rounded-full text-lg font-semibold shadow-lg">
                     チケットを購入
                   </button>
